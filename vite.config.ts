@@ -12,7 +12,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       '/api/v1': {
-        target: 'http://komatzip.kkyungvelyy.com',
+        target: 'https://komatzip.kkyungvelyy.com',
         changeOrigin: true,
       },
     },
