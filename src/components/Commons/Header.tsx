@@ -69,7 +69,7 @@ const Header = ({
         {showBackButtonIcon ? (
           <IoIosArrowBack
             onClick={handleBackClick}
-            className="text-[0px] md:text-5xl text-orange-200 hover:text-orange-900 mt-5 ml-20 cursor-pointer"
+            className="sm:text-5xl text-5xl text-orange-200 hover:text-orange-900 mt-5 ml-20 cursor-pointer"
           />
         ) : (
           <div style={{ width: 'auto' }}></div>
