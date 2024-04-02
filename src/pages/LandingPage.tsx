@@ -87,7 +87,7 @@ const LandingPage = () => {
                 ) : (
                   <MultiCarousel type={'store'}>
                     {data.map((item) => (
-                      <SearchTopstore item={item as Store} />
+                      <SearchTopstore key={item.uuid} item={item as Store} />
                     ))}
                   </MultiCarousel>
                 )}
