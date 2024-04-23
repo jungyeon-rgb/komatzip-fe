@@ -31,7 +31,10 @@ jobs:
 
       - name: .env setting
         run: |
-          echo "VITE_PUBLIC_API=${{ secrets.VITE_PUBLIC_API }}" > .env
+          echo "VITE_REST_API_KEY=${{ secrets.VITE_REST_API_KEY }}" > .env
+          echo "VITE_JAVASCRIPT_KEY=${{ secrets.VITE_JAVASCRIPT_KEY }}" >> .env
+          echo "VITE_ADMIN_KEY=${{ secrets.VITE_ADMIN_KEY }}" >> .env
+          echo "VITE_PUBLIC_API=${{ secrets.VITE_PUBLIC_API }}" >> .env
           echo "VITE_KAKAO_JAVASCRIPT_KEY=${{ secrets.VITE_KAKAO_JAVASCRIPT_KEY }}" >> .env
 
       - name: CI
