@@ -27,7 +27,7 @@ const SearchTopstore = ({ item }: { item: Store }) => {
     <>
       <main
         key={`search-top-store-${item.uuid}`}
-        className="bg-white my-3 cursor-pointer transition-all duration-300 ease-in-out transform shadow-lg hover:shadow-none w-full h-full"
+        className="bg-white 2xl:mb-8 mb-2 cursor-pointer transition-all duration-300 ease-in-out transform shadow-lg hover:shadow-none w-full h-full rounded-md"
         onClick={() => openModal(item)}
       >
         <section className="flex-row justify-center items-center max-h-[350px] max-w-72">
@@ -40,7 +40,7 @@ const SearchTopstore = ({ item }: { item: Store }) => {
                 />
               </div>
             ) : (
-              <p className="w-fullpx-2 flex justify-center items-center text-sm text-gray-400">
+              <p className="w-full px-2 flex justify-center items-center text-sm text-gray-400">
                 이미지가 아직 준비되지 않았어요!
               </p>
             )}

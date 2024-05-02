@@ -96,7 +96,7 @@ const Header = ({
               <>
                 <Link
                   to="/login"
-                  className="text-xl my-8  mx-20 text-orange-200 font-semibold hover:text-orange-900"
+                  className="text-xl my-8  sm:mx-20 mx-8 text-orange-200 font-semibold hover:text-orange-900"
                 >
                   Login
                 </Link>
@@ -119,7 +119,7 @@ const Header = ({
             to="/"
             className="text-4xl md:text-7xl font-bold text-orange-200 font-custom-snow-crab"
           >
-            여기가 수도권
+            여기가 수도권 ?
           </Link>
         </h1>
       )}
