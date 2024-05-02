@@ -22,15 +22,15 @@
 
 | <p align="center">로그인, 회원가입</p>                                                                                                    | <p align="center">메인 페이지</p>                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/8885cb93-c0c9-4c12-a41e-5981610906a1/image.gif" width=100%/></p> | <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/273d7ddb-3017-4256-80b8-f70251a4c99f/image.gif" width=100%/></p> |
+| <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/c9680c09-e847-498a-9a94-533b1b308d36/image.gif" width=100%/></p> | <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/273d7ddb-3017-4256-80b8-f70251a4c99f/image.gif" width=100%/></p> |
 
 | <p align="center">맵 페이지</p>                                                                                                           | <p align="center">검색 페이지</p>                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/2d0cab86-f215-4e68-87d2-aefe024473a1/image.gif" width=100%/></p> | <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/576e8cfc-be9c-43f8-9078-574fd922a9db/image.gif" width=100%/></p> |
 
-| <p align="center">마이 페이지</p>                                                                                                         | <p align="center">반응형</p>                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/7c3b9840-fd18-4a67-a504-5b66c4937bcc/image.gif" width=100%/></p> | <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/8b1958b2-a905-402b-934f-848379eb59a0/image.gif" width=60%/></p> |
+| <p align="center">마이 페이지</p>                                                                                                        | <p align="center">반응형</p>                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/7c3b9840-fd18-4a67-a504-5b66c4937bcc/image.gif" width=80%/></p> | <p align="center"><img src="https://velog.velcdn.com/images/ohs8283/post/817b4f43-71b1-41b0-bb64-75e1b5e6ae00/image.gif" width=100%/></p> |
 
 ## 1. 개발 환경
 
