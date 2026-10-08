@@ -15,7 +15,7 @@
     "@aws-sdk/client-s3": "^3.449.0",
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^1.9.5",
-    "axios": "^1.4.0",
+    "axios": "^1.20.0",
     "dotenv": "^16.3.1",
     "eslint": "^8.47.0",
     "fs": "^0.0.1-security",
